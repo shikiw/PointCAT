@@ -1,5 +1,5 @@
 # PointCAT
-This repository provides the official PyTorch implementation of the following conference paper: 
+This repository provides the official PyTorch implementation of the following paper: 
 > [**PointCAT: Contrastive Adversarial Training for Robust Point Cloud Recognition**](https://arxiv.org/abs/2209.07788) <br>
 > [Qidong Huang](http://home.ustc.edu.cn/~hqd0037/)<sup>1</sup>, 
 > [Xiaoyi Dong](https://scholar.google.com/citations?user=FscToE0AAAAJ&hl=en)<sup>1</sup>, 
